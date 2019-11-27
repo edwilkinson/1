@@ -1,1 +1,93 @@
-<mxfile host="www.draw.io" modified="2019-11-27T11:22:50.375Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="tLr1RCoRUgbjqxSoX7dl" version="12.3.2" type="github" pages="1"><diagram id="fR69uPY_hceBIrGDoU-H" name="Page-1">3VpNk6M2EP01rkoOqcJ8jX2c8cxuktqtpDKHPcvQBmWFmpLE2J5fH8kIY5Az61RsbHxxiUcL0Ot+TxJmEiyKzWdByvwrpsAmvpduJsHzxPfnga9/DbCtgSi2QCZoWkNeC7zSd6jBaYNWNAVpsRpSiEzRsgsmyDkkqoMRIXDdDVshSztASTJwgNeEMBf9RlOV1+gs8lr8V6BZ3tx56tkzBWmCLSBzkuL6AApeJsFCIKq6VWwWwAx3XV4+/cvZ/YMJ4OqUDov140xsRPH8dfX9t99xJWfv334J6qu8EVbZAduHVduGAUg1IfYQhcoxQ07YS4s+Cax4CuY2nj5qY74glhqcavBvUGprs0sqhRrKVcHsWXcodnQSK5HAB8/flAQRGagP4uywzFgObmCJ+gxYgBJbHSCAEUXfuskntoayfVxLs25Ypv8D61OHdcoV+Q4O911m1zlV8FqSHSNrLbcTWXwDoWDz4bjt2aCpa6vWvQzXbe1Pm4LOD+o+9i5EVTTyAvVPLNDwpgrUn90H7eej03b9E7VSW71EPb0Es54O6rzbXr2k7B/jf+TJSdNimzDkYDgCTRxRKCZ+zDR9T0vTykyr4lTdnNfsj6/mNX448qoPT50Ng5tym8CdD0fJ+9BuE/nDuo0rjy+k0P2IWVhTprTbUOQ761GKgbg5iwnnV7eYeOSl3ljHjz0mui2PGf1C8uyefZrJxH0tXHpJ425Jn6mUyN407773SLWteJ8YqsZsFkzv8+mKgpA3ZzhxcHXDcev+L5Am37gyoxWYgLw94h4erk3cdOyLwfkwfhH6vTk2Cgf1i7mTJokprQqNLamsWJkTpbdDMSlM1fKlLHes9rdEP6WQ5AwF5Ttf+dnJtS5k1U0NYTTjup3o1OjFTvBkyp0mhD3aEwVN07oKQNJ3stxdytRBacjY0RM9TaJn80D6cjr3si6DM4kqmvZSE8xPE1VwMVHNxqWhhsCLi8i7roiacR6o6J3yxHRD7s4OI9SC398KhKGjhfiIFPpbrPNNzJ5D621L4UrzSeANLAV3QrETg/t6foQ6COcPHXr9+bV1MLJlVRM49JQwtA72pXWgAyRZxcCU6R0owe8ZzTElPAyqBNd5BBRY73slq0zB/XgdKwk38fWvJkhzzkDex3q2/49BHDkZG3Y923zd8HHK+inSIYRyyjMTVMkSdl7mxO2Tt0/nkqIZLZEK7iOhYf/97JGEhkcSGl0soe772T+o7rUwN2MZgbqZCSDyLtYDzuu+Y//CTc9jg/qw/dylnqfab4aCl38A</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-27T11:25:58.474Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="HTGbzal1mhp4Nyf1cvmX" version="12.3.2" type="github" pages="1">
+  <diagram id="fR69uPY_hceBIrGDoU-H" name="Page-1">
+    <mxGraphModel dx="932" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwA8rxrmDMfkIJofs8zW-1" target="CwA8rxrmDMfkIJofs8zW-2" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-1" value="intake" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwA8rxrmDMfkIJofs8zW-2" target="CwA8rxrmDMfkIJofs8zW-4" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwA8rxrmDMfkIJofs8zW-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="380" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-2" value="Cyclone separator&lt;br&gt;unit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="350" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwA8rxrmDMfkIJofs8zW-4" target="CwA8rxrmDMfkIJofs8zW-23" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwA8rxrmDMfkIJofs8zW-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="520" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-4" value="Lamella filtration settler" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="490" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwA8rxrmDMfkIJofs8zW-23" target="CwA8rxrmDMfkIJofs8zW-25" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwA8rxrmDMfkIJofs8zW-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="660" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-23" value="Dissolved Air Flotation Clarrifiers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="630" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-25" value="Rest of process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="770" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwA8rxrmDMfkIJofs8zW-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="454" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-9" value="sodium bisulphate&amp;nbsp;&lt;br&gt;(dechlorination)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="467" y="439" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwA8rxrmDMfkIJofs8zW-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="454" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-10" value="zinc ions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="444" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwA8rxrmDMfkIJofs8zW-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="304" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-19" value="chlorine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="462" y="294" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CwA8rxrmDMfkIJofs8zW-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="304" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-21" value="coagulents" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="294" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-29" value="removed sludge&amp;nbsp;&lt;br&gt;(sand and particles)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="361.5" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-32" value="removed sludge&lt;br&gt;(remaining suspended&lt;br&gt;particles and bio waste)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="495" width="140" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="CwA8rxrmDMfkIJofs8zW-36" value="Oil, algae, grease" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="650" width="110" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
